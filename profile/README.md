@@ -20,6 +20,7 @@ Lutra Labs is an associated partner in the WE BUILD EUDI Wallet large-scale pilo
 - Pricing: [id.lutralabs.io/pricing](https://id.lutralabs.io/pricing)
 - Documentation: [lutraid-docs.lutralabs.io](https://lutraid-docs.lutralabs.io)
 - Sign up: [lutraid.lutralabs.io](https://lutraid.lutralabs.io/sign-up)
+- EUDI Hub: [eudi.lutralabs.io](https://eudi.lutralabs.io), a plain-language guide to the EUDI Wallet and eIDAS 2.0, in Slovenian and English
 - Contact: [info@lutralabs.io](mailto:info@lutralabs.io) · [LinkedIn](https://www.linkedin.com/company/lutras)
 
 Lutra Labs is a deep tech R&D studio in Slovenia working on digital identity, cryptography and distributed systems.
