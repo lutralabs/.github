@@ -6,7 +6,7 @@
 
 - **Issuers**: public bodies, universities and companies that issue credentials such as diplomas, licences, memberships or employee IDs to wallets.
 - **Relying parties**: services that request and verify credentials from a wallet instead of collecting documents.
-- **Intermediaries**: integrators and platforms that issue or verify on behalf of their own customers.
+- **Integrators**: software vendors and platforms that build issuing and verification into their own products over the API.
 
 ## Standards
 
